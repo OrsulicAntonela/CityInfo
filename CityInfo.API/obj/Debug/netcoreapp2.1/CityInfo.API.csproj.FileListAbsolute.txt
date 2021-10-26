@@ -14,3 +14,6 @@ C:\Users\aorsulic\Desktop\Antonela\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1
 C:\Users\aorsulic\Desktop\Antonela\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\Users\aorsulic\Desktop\Antonela\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
 C:\Users\aorsulic\Desktop\Antonela\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.genruntimeconfig.cache
+C:\Users\aorsulic\Desktop\Antonela\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\aorsulic\Desktop\Antonela\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\aorsulic\Desktop\Antonela\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.Production.json
