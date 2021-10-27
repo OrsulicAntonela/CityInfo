@@ -1,13 +1,9 @@
-﻿using CityInfo.API.Services;
+﻿using CityInfo.API.Contexts;
+using CityInfo.API.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace CityInfo.API
 {
@@ -24,8 +20,9 @@ namespace CityInfo.API
 #if DEBUG
             services.AddTransient<IMailService, LocalMailService>();
 #else
-            services.AddTransient<IMailService, LocalMailService>();
+            services.AddTransient<IMailService, CloudMailService>();
 #endif
+            services.AddDbContext<CityInfoContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
