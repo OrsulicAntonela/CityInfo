@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Mhhpp2u1sxdro042n1/TUkPhaJtyrBmqOI+dMqQmwTbgu8DXy7fK7V/NKfSJaN7L5LrPTbTzi1jXocR85Md1Sw==",
+  "dgSpecHash": "n3RN/lHsfkz08BelzyviAbSJUZUQuUxPEadQQP43RkiSdMFjybX8WOFTRF+/cqDHG8Pb2qYjcp2Sy1ObDINrGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\aorsulic\\Desktop\\Antonela\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\aorsulic\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\aorsulic\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
