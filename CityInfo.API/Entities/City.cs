@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CityInfo.API.Etities
+namespace CityInfo.API.Entities
 {
     public class City
     {

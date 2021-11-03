@@ -1,5 +1,5 @@
 ﻿using CityInfo.API.Contexts;
-using CityInfo.API.Etities;
+using CityInfo.API.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
